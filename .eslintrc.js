@@ -22,6 +22,5 @@ module.exports = {
         "react"
     ],
     "rules": {
-        "no-undef": 0
     }
 };

@@ -1,8 +1,5 @@
 import React, { Component } from 'react';
-
 import LibraryEntry from './LibraryEntry';
-import './Library.scss';
-
 
 export default class Library extends Component {
   render() {

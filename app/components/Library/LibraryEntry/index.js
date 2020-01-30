@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import './LibraryEntry.scss';
 
 export default class LibraryEntry extends Component {
 

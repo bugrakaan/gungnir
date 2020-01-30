@@ -1,20 +1,32 @@
+body {
+  font-family: "Julius Sans One", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+}
+
 .App {
   position: fixed;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  display: flex;
-  flex-direction: column;
 
   background-color: #282537;
   background-image: -webkit-radial-gradient(top, circle cover, #3c3b52 0%, #252233 80%);
 }
 
 .Library {
-  flex-grow: 1;
+  height: 100%;
 }
 
 .Header, .Footer {
+  position: fixed;
   height: 5vh;
+  width: 100%;
+}
+
+.Header {
+  top: 0;
+}
+
+.Footer {
+  bottom: 0;
 }

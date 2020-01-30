@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import './LibraryEntry.scss';
 
 export default class LibraryEntry extends Component {
 
@@ -6,14 +7,12 @@ export default class LibraryEntry extends Component {
     const { backgroundImage, name } = this.props;
 
     return (
-      <div className="LibraryEntry-wrapper">
-        <a href="javascript:;">
-          <div class="LibraryEntry-backdrop" style={{ backgroundImage: `url('${backgroundImage}')` }}></div>
-          <div class="LibraryEntry" style={{ backgroundImage: `url('${backgroundImage}')` }}>
-            <div class="LibraryEntry-gradient"></div>
-            <div class="LibraryEntry-name">{name}</div>
-          </div>
-        </a>
+      <div className="LibraryEntry">
+        <div className="LibraryEntry-backdrop" style={{ backgroundImage: `url('${backgroundImage}')` }}></div>
+        <div className="LibraryEntry-item" style={{ backgroundImage: `url('${backgroundImage}')` }}>
+          <div className="LibraryEntry-gradient"></div>
+          <div className="LibraryEntry-name">{name}</div>
+        </div>
       </div>
     );
   }

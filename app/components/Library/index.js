@@ -1,5 +1,8 @@
 import React, { Component } from 'react';
+
 import LibraryEntry from './LibraryEntry';
+import './Library.scss';
+
 
 export default class Library extends Component {
   render() {
@@ -7,7 +10,7 @@ export default class Library extends Component {
       <div className="Library">
         <LibraryEntry name="Ori and the Blind Forest" backgroundImage="https://steamcdn-a.akamaihd.net/steam/apps/387290/library_600x900_2x.jpg" />
         <LibraryEntry name="Hades" backgroundImage="https://steamcdn-a.akamaihd.net/steam/apps/1145360/library_600x900_2x.jpg" />
-        <LibraryEntry name="Grand theft Auto V" backgroundImage="https://steamcdn-a.akamaihd.net/steam/apps/271590/library_600x900_2x.jpg" />
+        <LibraryEntry name="Grand Theft Auto V" backgroundImage="https://steamcdn-a.akamaihd.net/steam/apps/271590/library_600x900_2x.jpg" />
         <LibraryEntry name="Disco Elysium" backgroundImage="https://steamcdn-a.akamaihd.net/steam/apps/632470/library_600x900_2x.jpg" />
         <LibraryEntry name="SUPERHOT" backgroundImage="https://steamcdn-a.akamaihd.net/steam/apps/322500/library_600x900_2x.jpg" />
         <LibraryEntry name="Blasphemous" backgroundImage="https://steamcdn-a.akamaihd.net/steam/apps/774361/library_600x900_2x.jpg" />

@@ -1,0 +1,18 @@
+.Library {
+  display: flex;
+  flex-wrap: nowrap;
+  box-sizing: border-box;
+  overflow-x: scroll;
+  align-items: center;
+
+  &::-webkit-scrollbar {
+    display: none;
+  }
+
+  &:before, &:after {
+    content: "";
+    display: inline-block;
+    min-width: 8vw;
+    height: 1px;
+  }
+}

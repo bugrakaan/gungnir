@@ -1,15 +1,17 @@
 import React, { Component } from 'react';
 import XMLParser from 'fast-xml-parser';
+
+import path from 'path';
 import FS from 'fs';
 import Library from './Library';
 
 export default class Home extends Component {
 
   get libraryItems() {
-    const SettingsXML = FS.readFileSync("F:\\Oyunlar\\Cemu\\settings.xml").toString();
+    const SettingsXML = FS.readFileSync(path.resolve(__dirname, './mockdata/cemusettings.xml')).toString();
     const Settings = XMLParser.parse(SettingsXML);
-
     const { content: { GameCache: { Entry: gameList } = {} } = {} } = Settings
+
     return gameList;
   }
 

@@ -1,8 +1,8 @@
 {
-  "name": "electron-react-boilerplate",
-  "productName": "ElectronReact",
-  "version": "0.18.1",
-  "description": "Electron application boilerplate based on React, React Router, Webpack, React Hot Loader for rapid application development",
+  "name": "gungnir",
+  "productName": "Gungnir",
+  "version": "0.0.1",
+  "description": "Leanback Game Launcher",
   "scripts": {
     "build": "concurrently \"yarn build-main\" \"yarn build-renderer\"",
     "build-dll": "cross-env NODE_ENV=development webpack --config ./configs/webpack.config.renderer.dev.dll.babel.js --colors",
@@ -52,8 +52,8 @@
     ]
   },
   "build": {
-    "productName": "ElectronReact",
-    "appId": "org.develar.ElectronReact",
+    "productName": "Gungnir",
+    "appId": "org.bugrakaan.gungnir",
     "files": [
       "dist/",
       "node_modules/",
@@ -96,38 +96,26 @@
     },
     "publish": {
       "provider": "github",
-      "owner": "electron-react-boilerplate",
-      "repo": "electron-react-boilerplate",
+      "owner": "gungnir",
+      "repo": "gungnir",
       "private": false
     }
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/electron-react-boilerplate/electron-react-boilerplate.git"
+    "url": "git+https://github.com/bugrakaan/gungnir.git"
   },
   "author": {
-    "name": "Electron React Boilerplate Maintainers",
-    "email": "electronreactboilerplate@gmail.com",
-    "url": "https://electron-react-boilerplate.js.org"
+    "name": "B. Kaan KAVUŞTUK",
+    "email": "bugrakaan+gungnir@gmail.com",
+    "url": "https://github.com/bugrakaan/gungnir/"
   },
-  "contributors": [
-    {
-      "name": "Vikram Rangaraj",
-      "email": "vikr01@icloud.com",
-      "url": "https://github.com/vikr01"
-    },
-    {
-      "name": "Amila Welihinda",
-      "email": "amilajack@gmail.com",
-      "url": "https://github.com/amilajack"
-    }
-  ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/electron-react-boilerplate/electron-react-boilerplate/issues"
+    "url": "https://github.com/bugrakaan/gungnir/issues"
   },
   "keywords": [],
-  "homepage": "https://github.com/electron-react-boilerplate/electron-react-boilerplate#readme",
+  "homepage": "https://github.com/bugrakaan/gungnir/issues",
   "jest": {
     "testURL": "http://localhost/",
     "moduleNameMapper": {
@@ -264,9 +252,6 @@
     "node": ">=7.x",
     "npm": ">=4.x",
     "yarn": ">=0.21.3"
-  },
-  "collective": {
-    "url": "https://opencollective.com/electron-react-boilerplate-594"
   },
   "browserslist": "electron 1.6"
 }

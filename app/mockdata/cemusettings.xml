@@ -1,0 +1,534 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content>
+    <logflag>0</logflag>
+    <advanced_ppc_logging>false</advanced_ppc_logging>
+    <mlc_path></mlc_path>
+    <language>0</language>
+    <use_discord_presence>true</use_discord_presence>
+    <fullscreen_menubar>false</fullscreen_menubar>
+    <check_update>false</check_update>
+    <save_screenshot>true</save_screenshot>
+    <vk_warning>false</vk_warning>
+    <fullscreen>false</fullscreen>
+    <cpu_mode>1</cpu_mode>
+    <console_region>255</console_region>
+    <console_language>1</console_language>
+    <window_position>
+        <x>0</x>
+        <y>0</y>
+    </window_position>
+    <window_size>
+        <x>2560</x>
+        <y>1440</y>
+    </window_size>
+    <open_pad>false</open_pad>
+    <pad_position>
+        <x>-1</x>
+        <y>-1</y>
+    </pad_position>
+    <pad_size>
+        <x>-1</x>
+        <y>-1</y>
+    </pad_size>
+    <GameList>
+        <style>1</style>
+        <order>{0, 1, 2, 3, 4, 5, 6}</order>
+        <name_width>500</name_width>
+        <version_width>60</version_width>
+        <dlc_width>50</dlc_width>
+        <game_time_width>140</game_time_width>
+        <game_started_width>160</game_started_width>
+    </GameList>
+    <RecentLaunchFiles>
+        <Entry>F:\Oyunlar\Cemu\Games\[USA] Mario Kart 8\code\Turbo.rpx</Entry>
+        <Entry>F:\Oyunlar\Cemu\Games\[USA] The Legend of Zelda Breath of the Wild\code\U-King.rpx</Entry>
+        <Entry>F:\Oyunlar\Cemu\Games\[USA] Tokyo Mirrage Sessions #FE\code\Stainless.rpx</Entry>
+        <Entry>F:\Oyunlar\Cemu\Games\[USA] Hyrule Warriors\code\ProjectZ.rpx</Entry>
+        <Entry>F:\Oyunlar\Cemu\Games\[EUR] Monster Hunter 3 Ultimate\code\MH3G_Cafe_EU.rpx</Entry>
+        <Entry>F:\Oyunlar\Cemu\Games\[EUR] Sonic Boom Rise of Lyric\code\WiiULauncher.rpx</Entry>
+        <Entry>F:/Oyunlar/Cemu/Games/[USA] Captain Toad Treasure Tracker/code/Kinopio.rpx</Entry>
+        <Entry>F:\Oyunlar\Cemu\Games\[USA] Captain Toad Treasure Tracker\code\Kinopio.rpx</Entry>
+        <Entry>F:\Oyunlar\Cemu\Games\[USA] New Super Mario Bros. U and New Super Luigi U\code\red-pro2.rpx</Entry>
+        <Entry>F:\Oyunlar\Cemu\Games\[USA] Super Smash Bros. for Wii U\code\cross_f.rpx</Entry>
+        <Entry>F:\Oyunlar\Cemu\Games\[USA] Yoshi's Woolly World\code\pj023.rpx</Entry>
+        <Entry>F:\Oyunlar\Cemu\Games\[USA] Pikmin 3\code\carrot.rpx</Entry>
+        <Entry>F:\Oyunlar\Cemu\Games\[USA] Sonic Lost World\code\sonic2013.rpx</Entry>
+    </RecentLaunchFiles>
+    <RecentNFCFiles/>
+    <GamePaths>
+        <Entry>F:\Oyunlar\Cemu\Games</Entry>
+    </GamePaths>
+    <GameCache>
+        <Entry>
+            <title_id>1407375153132032</title_id>
+            <name>MONSTER HUNTER 3 ULTIMATE</name>
+            <custom_name></custom_name>
+            <region>0</region>
+            <version>32</version>
+            <dlc_version>-1</dlc_version>
+            <path>F:\Oyunlar\Cemu\Games\[EUR] Monster Hunter 3 Ultimate\code\MH3G_Cafe_EU.rpx</path>
+            <time_played>1223</time_played>
+            <last_played>1580431781</last_played>
+            <favorite>false</favorite>
+        </Entry>
+        <Entry>
+            <title_id>1407375153519360</title_id>
+            <name>Sonic Boom: - Rise of Lyric</name>
+            <custom_name></custom_name>
+            <region>2</region>
+            <version>0</version>
+            <dlc_version>-1</dlc_version>
+            <path>F:\Oyunlar\Cemu\Games\[EUR] Sonic Boom Rise of Lyric\code\WiiULauncher.rpx</path>
+            <time_played>2661</time_played>
+            <last_played>1580431679</last_played>
+            <favorite>false</favorite>
+        </Entry>
+        <Entry>
+            <title_id>1407375153563136</title_id>
+            <name>Captain Toad: Treasure Tracker</name>
+            <custom_name></custom_name>
+            <region>2</region>
+            <version>16</version>
+            <dlc_version>-1</dlc_version>
+            <path>F:\Oyunlar\Cemu\Games\[USA] Captain Toad Treasure Tracker\code\Kinopio.rpx</path>
+            <time_played>225</time_played>
+            <last_played>1580431211</last_played>
+            <favorite>false</favorite>
+        </Entry>
+        <Entry>
+            <title_id>1407375153266432</title_id>
+            <name>Donkey Kong Country - Tropical Freeze</name>
+            <custom_name></custom_name>
+            <region>2</region>
+            <version>16</version>
+            <dlc_version>-1</dlc_version>
+            <path>F:\Oyunlar\Cemu\Games\[USA] Donkey Kong Country Tropical Freeze\code\rs10_production.rpx</path>
+            <time_played>385</time_played>
+            <last_played>1577202604</last_played>
+            <favorite>false</favorite>
+        </Entry>
+        <Entry>
+            <title_id>1407375153551360</title_id>
+            <name>Hyrule Warriors</name>
+            <custom_name></custom_name>
+            <region>2</region>
+            <version>208</version>
+            <dlc_version>208</dlc_version>
+            <path>F:\Oyunlar\Cemu\Games\[USA] Hyrule Warriors\code\ProjectZ.rpx</path>
+            <time_played>140</time_played>
+            <last_played>1580432016</last_played>
+            <favorite>false</favorite>
+        </Entry>
+        <Entry>
+            <title_id>1407375153740800</title_id>
+            <name>Kirby and the Rainbow Curse</name>
+            <custom_name></custom_name>
+            <region>2</region>
+            <version>16</version>
+            <dlc_version>-1</dlc_version>
+            <path>F:\Oyunlar\Cemu\Games\[USA] Kirby and the Rainbow Curse\code\seven.rpx</path>
+            <time_played>1894</time_played>
+            <last_played>1578053529</last_played>
+            <favorite>false</favorite>
+        </Entry>
+        <Entry>
+            <title_id>1407375153097728</title_id>
+            <name>MARIO KART 8</name>
+            <custom_name></custom_name>
+            <region>2</region>
+            <version>64</version>
+            <dlc_version>80</dlc_version>
+            <path>F:\Oyunlar\Cemu\Games\[USA] Mario Kart 8\code\Turbo.rpx</path>
+            <time_played>7598</time_played>
+            <last_played>1580432294</last_played>
+            <favorite>false</favorite>
+        </Entry>
+        <Entry>
+            <title_id>1407375153442048</title_id>
+            <name>Mario Party 10</name>
+            <custom_name></custom_name>
+            <region>2</region>
+            <version>16</version>
+            <dlc_version>-1</dlc_version>
+            <path>F:\Oyunlar\Cemu\Games\[USA] Mario Party 10\code\tenst.rpx</path>
+            <time_played>983</time_played>
+            <last_played>1577736260</last_played>
+            <favorite>false</favorite>
+        </Entry>
+        <Entry>
+            <title_id>1407375153346304</title_id>
+            <name>New SUPER MARIO BROS. U +  - New SUPER LUIGI U</name>
+            <custom_name></custom_name>
+            <region>2</region>
+            <version>0</version>
+            <dlc_version>-1</dlc_version>
+            <path>F:\Oyunlar\Cemu\Games\[USA] New Super Mario Bros. U and New Super Luigi U\code\red-pro2.rpx</path>
+            <time_played>1796</time_played>
+            <last_played>1579648229</last_played>
+            <favorite>false</favorite>
+        </Entry>
+        <Entry>
+            <title_id>1407375153045504</title_id>
+            <name>Nintendo Land</name>
+            <custom_name></custom_name>
+            <region>2</region>
+            <version>32</version>
+            <dlc_version>-1</dlc_version>
+            <path>F:\Oyunlar\Cemu\Games\[USA] Nintendo Land\code\Lunch.rpx</path>
+            <time_played>0</time_played>
+            <last_played>1557661982</last_played>
+            <favorite>false</favorite>
+        </Entry>
+        <Entry>
+            <title_id>1407375409941248</title_id>
+            <name>PAPER MARIO Color Splash</name>
+            <custom_name></custom_name>
+            <region>4</region>
+            <version>0</version>
+            <dlc_version>-1</dlc_version>
+            <path>F:\Oyunlar\Cemu\Games\[USA] Paper Mario Color Splash\code\main.rpx</path>
+            <time_played>1604</time_played>
+            <last_played>1558217698</last_played>
+            <favorite>false</favorite>
+        </Entry>
+        <Entry>
+            <title_id>1407375153216768</title_id>
+            <name>PIKMIN 3</name>
+            <custom_name></custom_name>
+            <region>2</region>
+            <version>96</version>
+            <dlc_version>48</dlc_version>
+            <path>F:\Oyunlar\Cemu\Games\[USA] Pikmin 3\code\carrot.rpx</path>
+            <time_played>248</time_played>
+            <last_played>1579557037</last_played>
+            <favorite>false</favorite>
+        </Entry>
+        <Entry>
+            <title_id>1407375153951744</title_id>
+            <name>POKKÉN TOURNAMENT</name>
+            <custom_name></custom_name>
+            <region>2</region>
+            <version>64</version>
+            <dlc_version>-1</dlc_version>
+            <path>F:\Oyunlar\Cemu\Games\[USA] Pokkén Tournament\code\ferrum_app.rpx</path>
+            <time_played>159</time_played>
+            <last_played>1577183407</last_played>
+            <favorite>false</favorite>
+        </Entry>
+        <Entry>
+            <title_id>1407375153082368</title_id>
+            <name>Rabbids Land</name>
+            <custom_name></custom_name>
+            <region>2</region>
+            <version>1</version>
+            <dlc_version>-1</dlc_version>
+            <path>F:\Oyunlar\Cemu\Games\[USA] Rabbids Land\code\LyN-Standalone_f.rpx</path>
+            <time_played>487</time_played>
+            <last_played>1557010478</last_played>
+            <favorite>false</favorite>
+        </Entry>
+        <Entry>
+            <title_id>1407375153083136</title_id>
+            <name>Sonic &amp; All-Stars Racing - Transformed</name>
+            <custom_name></custom_name>
+            <region>2</region>
+            <version>0</version>
+            <dlc_version>-1</dlc_version>
+            <path>F:\Oyunlar\Cemu\Games\[USA] Sonic &amp; All-Stars Racing Transformed\code\SART.rpx</path>
+            <time_played>241</time_played>
+            <last_played>1577204401</last_played>
+            <favorite>false</favorite>
+        </Entry>
+        <Entry>
+            <title_id>1407375153204992</title_id>
+            <name>SONIC LOST WORLD</name>
+            <custom_name></custom_name>
+            <region>2</region>
+            <version>0</version>
+            <dlc_version>-1</dlc_version>
+            <path>F:\Oyunlar\Cemu\Games\[USA] Sonic Lost World\code\sonic2013.rpx</path>
+            <time_played>173</time_played>
+            <last_played>1579385779</last_played>
+            <favorite>false</favorite>
+        </Entry>
+        <Entry>
+            <title_id>1407375153522944</title_id>
+            <name>Splatoon</name>
+            <custom_name></custom_name>
+            <region>2</region>
+            <version>272</version>
+            <dlc_version>-1</dlc_version>
+            <path>F:\Oyunlar\Cemu\Games\[USA] Splatoon\code\Gambit.rpx</path>
+            <time_played>2122</time_played>
+            <last_played>1577307526</last_played>
+            <favorite>false</favorite>
+        </Entry>
+        <Entry>
+            <title_id>1407375153759232</title_id>
+            <name>Star Fox Zero</name>
+            <custom_name></custom_name>
+            <region>2</region>
+            <version>16</version>
+            <dlc_version>-1</dlc_version>
+            <path>F:\Oyunlar\Cemu\Games\[USA] Star Fox Zero\code\PRJ_030.rpx</path>
+            <time_played>631</time_played>
+            <last_played>1558790818</last_played>
+            <favorite>false</favorite>
+        </Entry>
+        <Entry>
+            <title_id>1407375153323008</title_id>
+            <name>SUPER MARIO 3D WORLD</name>
+            <custom_name></custom_name>
+            <region>2</region>
+            <version>1</version>
+            <dlc_version>-1</dlc_version>
+            <path>F:\Oyunlar\Cemu\Games\[USA] Super Mario 3D World\code\RedCarpet.rpx</path>
+            <time_played>0</time_played>
+            <last_played>0</last_played>
+            <favorite>false</favorite>
+        </Entry>
+        <Entry>
+            <title_id>1407375153617920</title_id>
+            <name>Super Mario Maker</name>
+            <custom_name></custom_name>
+            <region>2</region>
+            <version>272</version>
+            <dlc_version>-1</dlc_version>
+            <path>F:\Oyunlar\Cemu\Games\[USA] Super Mario Maker\code\Block.rpx</path>
+            <time_played>0</time_played>
+            <last_played>1556049184</last_played>
+            <favorite>false</favorite>
+        </Entry>
+        <Entry>
+            <title_id>1407375153319680</title_id>
+            <name>Super Smash Bros. - for Wii U</name>
+            <custom_name></custom_name>
+            <region>2</region>
+            <version>304</version>
+            <dlc_version>96</dlc_version>
+            <path>F:\Oyunlar\Cemu\Games\[USA] Super Smash Bros. for Wii U\code\cross_f.rpx</path>
+            <time_played>4166</time_played>
+            <last_played>1579646511</last_played>
+            <favorite>false</favorite>
+        </Entry>
+        <Entry>
+            <title_id>1407375153102848</title_id>
+            <name>TEKKEN TAG TOURNAMENT 2 - Wii U EDITION</name>
+            <custom_name></custom_name>
+            <region>2</region>
+            <version>16</version>
+            <dlc_version>-1</dlc_version>
+            <path>F:\Oyunlar\Cemu\Games\[USA] TEKKEN TAG TOURNAMENT 2 Wii U EDITION\code\Tekken.rpx</path>
+            <time_played>1315</time_played>
+            <last_played>1577183230</last_played>
+            <favorite>false</favorite>
+        </Entry>
+        <Entry>
+            <title_id>1407375153861632</title_id>
+            <name>The Legend of Zelda - Breath of the Wild</name>
+            <custom_name></custom_name>
+            <region>2</region>
+            <version>208</version>
+            <dlc_version>80</dlc_version>
+            <path>F:\Oyunlar\Cemu\Games\[USA] The Legend of Zelda Breath of the Wild\code\U-King.rpx</path>
+            <time_played>293787</time_played>
+            <last_played>1580432216</last_played>
+            <favorite>false</favorite>
+        </Entry>
+        <Entry>
+            <title_id>1407375153313024</title_id>
+            <name>THE LEGEND OF ZELDA - The Wind Waker HD</name>
+            <custom_name></custom_name>
+            <region>2</region>
+            <version>0</version>
+            <dlc_version>-1</dlc_version>
+            <path>F:\Oyunlar\Cemu\Games\[USA] The Legend of Zelda The Wind Waker HD\code\cking.rpx</path>
+            <time_played>1190</time_played>
+            <last_played>1577208723</last_played>
+            <favorite>false</favorite>
+        </Entry>
+        <Entry>
+            <title_id>1407375153685760</title_id>
+            <name>THE LEGEND OF ZELDA - Twilight Princess HD</name>
+            <custom_name></custom_name>
+            <region>2</region>
+            <version>81</version>
+            <dlc_version>-1</dlc_version>
+            <path>F:\Oyunlar\Cemu\Games\[USA] The Legend of Zelda Twilight Princess HD\code\Zelda.rpx</path>
+            <time_played>426</time_played>
+            <last_played>1577208844</last_played>
+            <favorite>false</favorite>
+        </Entry>
+        <Entry>
+            <title_id>1407375154009856</title_id>
+            <name>Tokyo Mirage Sessions #FE</name>
+            <custom_name></custom_name>
+            <region>4</region>
+            <version>16</version>
+            <dlc_version>-1</dlc_version>
+            <path>F:\Oyunlar\Cemu\Games\[USA] Tokyo Mirrage Sessions #FE\code\Stainless.rpx</path>
+            <time_played>1511</time_played>
+            <last_played>1580432162</last_played>
+            <favorite>false</favorite>
+        </Entry>
+        <Entry>
+            <title_id>1407375153581312</title_id>
+            <name>Yoshi's Woolly World</name>
+            <custom_name></custom_name>
+            <region>2</region>
+            <version>32</version>
+            <dlc_version>-1</dlc_version>
+            <path>F:\Oyunlar\Cemu\Games\[USA] Yoshi's Woolly World\code\pj023.rpx</path>
+            <time_played>9050</time_played>
+            <last_played>1579646150</last_played>
+            <favorite>false</favorite>
+        </Entry>
+    </GameCache>
+    <GraphicPack>
+        <Entry>
+            <filename>graphicPacks\downloadedGraphicPacks\BreathOfTheWild_AntiAliasing\rules.txt</filename>
+            <preset>Alternative FXAA (NVIDIA's implementation)</preset>
+        </Entry>
+        <Entry>
+            <filename>graphicPacks\downloadedGraphicPacks\BreathOfTheWild_Clarity\rules.txt</filename>
+            <preset>Serfrost's Preset (Default)</preset>
+        </Entry>
+        <Entry>
+            <filename>graphicPacks\downloadedGraphicPacks\BreathOfTheWild_FPS++\Dynamic Gamespeed\rules.txt</filename>
+            <preset>32 Frames Averaged</preset>
+        </Entry>
+        <Entry>
+            <filename>graphicPacks\downloadedGraphicPacks\BreathOfTheWild_FPS++\Fence Method\rules.txt</filename>
+            <preset>Performance Fence</preset>
+        </Entry>
+        <Entry>
+            <filename>graphicPacks\downloadedGraphicPacks\BreathOfTheWild_FPS++\Limit FPS\rules.txt</filename>
+            <preset>60FPS (ideal for 240/120/60Hz displays)</preset>
+        </Entry>
+        <Entry>
+            <filename>graphicPacks\downloadedGraphicPacks\BreathOfTheWild_FPS++\Occlusion Query\rules.txt</filename>
+            <preset></preset>
+        </Entry>
+        <Entry>
+            <filename>graphicPacks\downloadedGraphicPacks\BreathOfTheWild_Intel_ExcessBloom\rules.txt</filename>
+            <preset></preset>
+        </Entry>
+        <Entry>
+            <filename>graphicPacks\downloadedGraphicPacks\BreathOfTheWild_Intel_FlippedLights\rules.txt</filename>
+            <preset></preset>
+        </Entry>
+        <Entry>
+            <filename>graphicPacks\downloadedGraphicPacks\BreathOfTheWild_KakarikoShadows\rules.txt</filename>
+            <preset></preset>
+        </Entry>
+        <Entry>
+            <filename>graphicPacks\downloadedGraphicPacks\BreathOfTheWild_LwzxNullCheck\rules.txt</filename>
+            <preset></preset>
+        </Entry>
+        <Entry>
+            <filename>graphicPacks\downloadedGraphicPacks\BreathOfTheWild_Nvidia_ExplosionSmoke\rules.txt</filename>
+            <preset></preset>
+        </Entry>
+        <Entry>
+            <filename>graphicPacks\downloadedGraphicPacks\BreathOfTheWild_Nvidia_StretchedClouds\rules.txt</filename>
+            <preset></preset>
+        </Entry>
+        <Entry>
+            <filename>graphicPacks\downloadedGraphicPacks\BreathOfTheWild_Resolution\rules.txt</filename>
+            <preset>2560x1440 (16:9)</preset>
+        </Entry>
+        <Entry>
+            <filename>graphicPacks\downloadedGraphicPacks\BreathOfTheWild_Shadows\rules.txt</filename>
+            <preset>Medium (100%, Default)</preset>
+        </Entry>
+        <Entry>
+            <filename>graphicPacks\downloadedGraphicPacks\MarioKart8_60FPSMultiplayer\rules.txt</filename>
+            <preset></preset>
+        </Entry>
+        <Entry>
+            <filename>graphicPacks\downloadedGraphicPacks\MarioKart8_Resolution\rules.txt</filename>
+            <preset>2560x1440</preset>
+        </Entry>
+        <Entry>
+            <filename>graphicPacks\downloadedGraphicPacks\MarioKart8_Shadows\rules.txt</filename>
+            <preset>High (200%)</preset>
+        </Entry>
+        <Entry>
+            <filename>graphicPacks\downloadedGraphicPacks\NewSuperMarioBrosU_CrashFix\rules.txt</filename>
+            <preset></preset>
+        </Entry>
+        <Entry>
+            <filename>graphicPacks\downloadedGraphicPacks\NewSuperMarioBrosU_FancyFX\rules.txt</filename>
+            <preset>2560x1440 (Native x2)</preset>
+        </Entry>
+        <Entry>
+            <filename>graphicPacks\downloadedGraphicPacks\NewSuperMarioBrosU_Resolution\rules.txt</filename>
+            <preset>2560x1440 (Native x2)</preset>
+        </Entry>
+        <Entry>
+            <filename>graphicPacks\downloadedGraphicPacks\Pikmin3_Resolution\rules.txt</filename>
+            <preset>2560x1440</preset>
+        </Entry>
+        <Entry>
+            <filename>graphicPacks\downloadedGraphicPacks\Pikmin3_Shadows\rules.txt</filename>
+            <preset>High (200%)</preset>
+        </Entry>
+        <Entry>
+            <filename>graphicPacks\downloadedGraphicPacks\YoshisWoollyWorld_60fpsMap\rules.txt</filename>
+            <preset></preset>
+        </Entry>
+        <Entry>
+            <filename>graphicPacks\downloadedGraphicPacks\YoshisWoollyWorld_Resolution\rules.txt</filename>
+            <preset>2560x1440</preset>
+        </Entry>
+        <Entry>
+            <filename>graphicPacks\downloadedGraphicPacks\YoshisWoollyWorld_Shadows\rules.txt</filename>
+            <preset>High (200%)</preset>
+        </Entry>
+    </GraphicPack>
+    <Graphic>
+        <api>0</api>
+        <device>00000000000000000000000000000000</device>
+        <VSync>true</VSync>
+        <GX2DrawdoneSync>true</GX2DrawdoneSync>
+        <PrecompiledShaders>0</PrecompiledShaders>
+        <vertex_cache_accuary>0</vertex_cache_accuary>
+        <UpscaleFilter>2</UpscaleFilter>
+        <DownscaleFilter>0</DownscaleFilter>
+        <FullscreenScaling>0</FullscreenScaling>
+        <Overlay>
+            <Position>0</Position>
+            <TextColor>4294967295</TextColor>
+            <TextScale>100</TextScale>
+            <FPS>true</FPS>
+            <DrawCalls>false</DrawCalls>
+            <CPUUsage>false</CPUUsage>
+            <CPUPerCoreUsage>false</CPUPerCoreUsage>
+            <RAMUsage>false</RAMUsage>
+            <VRAMUsage>false</VRAMUsage>
+        </Overlay>
+        <Notification>
+            <Position>1</Position>
+            <TextColor>4294967295</TextColor>
+            <TextScale>100</TextScale>
+            <ControllerProfiles>true</ControllerProfiles>
+            <ControllerBattery>true</ControllerBattery>
+            <ShaderCompiling>true</ShaderCompiling>
+            <FriendService>true</FriendService>
+        </Notification>
+    </Graphic>
+    <Audio>
+        <api>2</api>
+        <delay>2</delay>
+        <TVChannels>1</TVChannels>
+        <PadChannels>1</PadChannels>
+        <TVVolume>100</TVVolume>
+        <PadVolume>0</PadVolume>
+        <TVDevice>default</TVDevice>
+        <PadDevice></PadDevice>
+    </Audio>
+    <Account>
+        <PersistentId>2147483649</PersistentId>
+        <OnlineEnabled>false</OnlineEnabled>
+    </Account>
+</content>

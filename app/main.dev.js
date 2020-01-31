@@ -56,10 +56,10 @@ const createWindow = async () => {
 
   mainWindow = new BrowserWindow({
     show: false,
-    width: 1024,
-    height: 728,
-    // fullscreen: true,
-    // frame: false,
+    width: 2560,
+    height: 1440,
+    //fullscreen: true,
+    frame: false,
     webPreferences: {
       nodeIntegration: true
     }

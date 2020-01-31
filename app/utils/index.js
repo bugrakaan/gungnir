@@ -1,7 +1,7 @@
 import XMLParser from 'fast-xml-parser';
 import path from 'path';
 import FS from 'fs';
-import titleList from '../../constants/titlesWiiU.json';
+import titleList from '../constants/titlesWiiU.json';
 
 export const getLibraryItems = () => {
   const SettingsXML = FS.readFileSync(path.resolve(__dirname, './mockdata/cemusettings.xml')).toString();
